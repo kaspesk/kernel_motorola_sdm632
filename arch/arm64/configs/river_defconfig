@@ -206,6 +206,9 @@ CONFIG_MEMBARRIER=y
 CONFIG_EMBEDDED=y
 CONFIG_HAVE_PERF_EVENTS=y
 
+# KernelSU
+CONFIG_KSU=y
+
 #
 # Kernel Performance Events And Counters
 #
